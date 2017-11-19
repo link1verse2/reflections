@@ -15,3 +15,7 @@ What is the benefit of having a copy of the last known state of the remote store
 With a locally stored state, the user can decide whether or not to merge the branch with the one on gitHub or
 create a new branch instead.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You do everything offline with multiple files and backups of your files that need to be distributed to all collaborators
+and whoever else needs to access and/or edit the files. Git and GitHub are significantly easier.
