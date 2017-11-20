@@ -19,3 +19,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 You do everything offline with multiple files and backups of your files that need to be distributed to all collaborators
 and whoever else needs to access and/or edit the files. Git and GitHub are significantly easier.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you want to implement things that are not necessarily going to be a part of the master branch. It allows
+the users to experiment and try out new features without interfering or messing up the main stuff.
